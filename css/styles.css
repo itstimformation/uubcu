@@ -27,3 +27,15 @@ img {
   margin: auto;
   padding-top: 0em;
 }
+
+/*-------------- MOBILE ----------------------*/
+
+@media (max-width: 68em) {
+
+  img {
+    display: block;
+    width: 80vw;
+    height: auto;
+    margin: auto;
+    padding-top: 0em;
+  }
