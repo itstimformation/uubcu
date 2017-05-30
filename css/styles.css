@@ -33,7 +33,6 @@ img {
 @media (max-width: 380px) {
 
   div.contain {
-    border: 1px solid red;
     display: inline;
     vertical-align: middle;
     margin-top: auto;
@@ -45,7 +44,7 @@ img {
     position: relative;
     width: 90vw;
     height: auto;
-    margin-top: 25%; 
+    margin-top: 15vh; 
   }
 
 }
