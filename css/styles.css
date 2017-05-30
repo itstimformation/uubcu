@@ -32,13 +32,20 @@ img {
 
 @media (max-width: 380px) {
 
-  img {
-    display: block;
-    width: 90vw;
-    height: auto;
-    margin: auto;
+  div.contain {
+    border: 1px solid red;
+    display: inline;
+    vertical-align: middle;
     margin-top: auto;
     margin-bottom: auto;
+  }
+
+  img {
+    display: block;
+    position: relative;
+    width: 90vw;
+    height: auto;
+    margin-top: 25%; 
   }
 
 }
