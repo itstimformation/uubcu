@@ -30,7 +30,7 @@ img {
 
 /*-------------- MOBILE ----------------------*/
 
-@media (max-width: 68em) {
+@media (max-width: 70em) {
 
   img {
     display: block;
